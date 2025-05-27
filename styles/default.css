@@ -13,3 +13,10 @@
     padding: 0 32px;
     margin: 0 auto;
 }
+
+.g-btn
+{
+    border: 1px solid #BAE249;
+    color: #BAE249;
+    background-color: transparent;
+}
